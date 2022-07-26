@@ -9,3 +9,4 @@ var user2 = User(username: "dua lipa", followers: 1000000, following: 200, gende
 //print(user2.username)
 print(user1.phone.code.rawValue)
 
+print("fdsfsdfsdkf")
